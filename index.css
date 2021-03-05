@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #cfe8df;
+}
+
+div {
+  padding: 0.25rem;
+  margin: 0.5rem;
+}
+
+h1,
+h2,
+p {
+  padding: 0.25rem;
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+}
+
+a:link {
+  color: #595959;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #595959;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #595959;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #595959;
+  text-decoration: underline;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Student Info - Schedule</title>
+    <meta name="description" content="Simple page with info about the student">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="../index.css">
+</head>
+
+<body>
+    <div class="header">
+        <h1>Doge The Student</h1>
+        <h3>Schedule</h3>
+    </div>
+    <div class="row">
+        <div class="col-3 menu-container">
+            <ul class='menu'>
+                <li><a href="../index.html">Home</a> </li>
+                <li><a class="active" href="./schedule.html">Schedule</a> </li>
+                <li><a href="./hobby.html">Hobby</a> </li>
+                <li><a href="./contact.html">Contact</a> </li>
+                <li><a href="../">Back</a> </li>
+            </ul>
+        </div>
+        <div class="col-9">
+            <section>
+                <h2>My schedule</h2>
+                <p>This is my weekly schedule:</p>
+                <table class="schedule">
+                    <tbody id="scheduleBody"></tbody>
+                </table>
+            </section>
+        </div>
+    </div>
+</body>
+<script src='../js/index.js' type='module'></script>
+
+</html>
