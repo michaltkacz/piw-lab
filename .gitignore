@@ -24,4 +24,6 @@ project_tinder/npm-debug.log*
 project_tinder/yarn-debug.log*
 project_tinder/yarn-error.log*
 
-
+project_tinder/.gitignore
+project_tinder/LICENSE
+project_tinder/README.md
