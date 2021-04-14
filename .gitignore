@@ -1,1 +1,27 @@
 /lab1-docer
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+project_tinder/node_modules
+project_tinder/.pnp
+project_tinder/.pnp.js
+
+# testing
+project_tinder/coverage
+
+# production
+# /build
+
+# misc
+project_tinder/.DS_Store
+project_tinder/.env.local
+project_tinder/.env.development.local
+project_tinder/.env.test.local
+project_tinder/.env.production.local
+
+project_tinder/npm-debug.log*
+project_tinder/yarn-debug.log*
+project_tinder/yarn-error.log*
+
+
