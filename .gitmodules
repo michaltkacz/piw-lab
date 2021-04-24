@@ -1,0 +1,6 @@
+[submodule "todo-list"]
+	path = todo-list
+	url = https://github.com/michaltkacz/todo-list.git
+[submodule "it-nder"]
+	path = it-nder
+	url = https://github.com/michaltkacz/it-nder.git

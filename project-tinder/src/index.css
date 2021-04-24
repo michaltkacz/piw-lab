@@ -1,9 +1,0 @@
-#root {
-  background: lightgray;
-  height: 100vh;
-  overflow: auto;
-}
-
-.content-container {
-  background: white;
-}
