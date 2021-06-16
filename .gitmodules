@@ -4,3 +4,6 @@
 [submodule "it-nder"]
 	path = it-nder
 	url = https://github.com/michaltkacz/it-nder.git
+[submodule "bike-shop"]
+	path = bike-shop
+	url = https://github.com/michaltkacz/bike-shop.git
