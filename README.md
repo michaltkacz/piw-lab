@@ -1,5 +1,5 @@
-# Programowanie Interfejsów Webowych - Laboratorium
+# Programowanie Interfejsów Webowych
 
-> Author: Michał Tkacz 248869
->
-> Pages: https://michaltkacz.github.io/piw-lab/
+## Contact
+
+Created by [@michaltkacz](https://github.com/michaltkacz) - feel free to contact me!
